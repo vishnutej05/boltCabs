@@ -1,0 +1,33 @@
+.logo{
+    /* background-color: #5d9ad7;
+    border-radius: 100px;
+    margin-left:47%; */
+    display:flex;
+    justify-content:start;
+}
+
+.bg-container{
+    height:100vh
+}
+
+.userlogo{
+    width: 70px;
+}
+
+.phone{
+    display: flex;
+    align-items: center;
+}
+
+.card{
+    height:300px;
+    background-image: linear-gradient(180deg, #ded9d9 0%, #dcd7dc 46%,#bbbbb6 100%);
+}
+
+.row{
+    background-image: linear-gradient(180deg, #ded9d9 0%, #dcd7dc 46%,#bbbbb6 100%);
+}
+
+.card-body{
+    background-image: linear-gradient(180deg, #ded9d9 0%, #dcd7dc 46%,#bbbbb6 100%);
+}

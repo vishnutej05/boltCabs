@@ -1,0 +1,66 @@
+.bg-container{
+    display:flex;
+    flex-direction:column;
+    padding:20px;
+    height:150vh;
+}
+
+body
+{
+    background-color: black;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    background-color: #5d9ad7;
+    border-radius: 100px;
+    margin-left:47%;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.userlogo{
+    width: 70%;
+}
+
+hr {
+    border: none;
+    border-top: 2px solid #999; /* Change color or thickness as needed */
+    margin: 20px 0; /* Adjust spacing */
+}
+
+.from-to{
+    max-width:350px;
+    background-color: rgb(0, 0, 0);
+    padding:20px
+}
+
+i{
+    font-size:38px;
+}
+
+.card{
+    height:300px;
+}
+
+.destination{
+    height:60px;
+    width:300px;
+    padding:20px;
+    border-radius:30px;
+}
+
+.card-img{
+    height:300px;
+    width:300px;
+}
+
+.card-body{
+    max-height:400px;
+}
+
+.bmw{
+    height:270px;
+}
+
